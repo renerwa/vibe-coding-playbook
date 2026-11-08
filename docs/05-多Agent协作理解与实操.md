@@ -491,3 +491,4 @@ AGENTS.md              → 简短索引和调度规则
 
 - [个人背景与 AI 协作说明](00-个人背景与AI协作说明.md)
 - [Vibe Coding 中的 TDD 工作流](02-Vibe-Coding中的TDD工作流.md)
+- [多 Agent 使用指南](10-多Agent使用指南.md)
